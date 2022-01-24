@@ -1,2 +1,4 @@
-# military_aircraft_classification_project
-Artificial İntelligence vgg16 algorithm military_aircraft_classification_project from python3 
+# Military Aircraft Classification Project
+
+
+
