@@ -36,14 +36,14 @@ If you encounter an error, feel free to let us know!
  [@dogukankurnaz](https://github.com/dogukankurnaz)
  
  
-## Sürüm Geçmişi
+## Version
 
 
 * 1.0
     * Published.
 
 
-## Lisans
+## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
