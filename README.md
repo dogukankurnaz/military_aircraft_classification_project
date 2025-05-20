@@ -23,7 +23,7 @@ The object recognition algorithm CNN was used. Supported by VGG16.
 
 ### Screenshot
 
-![](13zhh7k.png)
+![](13zhh7k.jpeg)
 
 
 ## Help
